@@ -1,2 +1,2 @@
 # GIt $ and Github 
-initial course commit
+Initial course commit

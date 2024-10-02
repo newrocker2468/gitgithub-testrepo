@@ -1,7 +1,3 @@
-# GIt $ and Github 
-Initial Course Commit
-
-
-hello
-
-s
+dwwdwd
+f1
+f2
